@@ -17,7 +17,7 @@
 	4.  可以看到.ssh文件夹下面有id_rsa和id_rsa.pub两个文件
 6.   **配置github SSH Key**
 	1.   登录github，点击settings，找到SSH and GPG keys添加SSH key，title随意，key填入id_rsa.pub的内容进行保存即可
-	2.   
+	  
 7.   **新建库 new Repository**:在github上面新建库，如softwareTesting
 
 8.   **关联库**：git remote add origin git@github.com:longlongleg/softwareTesting.git
