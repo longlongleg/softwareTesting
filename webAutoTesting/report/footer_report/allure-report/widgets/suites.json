@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "4218988d87ca5c6aa2e3b175031b0910",
+    "name" : "testFooter",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 10,
+      "unknown" : 0,
+      "total" : 10
+    }
+  } ]
+}

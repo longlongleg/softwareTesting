@@ -1,0 +1,143 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testFooter",
+    "children" : [ {
+      "name" : "TestFooter",
+      "children" : [ {
+        "name" : "test_brand[2]",
+        "uid" : "9b5da9890b81d897",
+        "parentUid" : "f8c0590a74000f318aef8183a125c7d4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626508212936,
+          "stop" : 1626508215066,
+          "duration" : 2130
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "2" ]
+      }, {
+        "name" : "test_brand[3]",
+        "uid" : "47fbf4e556b88ee7",
+        "parentUid" : "f8c0590a74000f318aef8183a125c7d4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626508215069,
+          "stop" : 1626508215690,
+          "duration" : 621
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "3" ]
+      }, {
+        "name" : "test_brand[4]",
+        "uid" : "e610541e0a2937f5",
+        "parentUid" : "f8c0590a74000f318aef8183a125c7d4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626508215694,
+          "stop" : 1626508216420,
+          "duration" : 726
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "4" ]
+      }, {
+        "name" : "test_about_us[鲸采电酷简介]",
+        "uid" : "3c49ddefa919d854",
+        "parentUid" : "f8c0590a74000f318aef8183a125c7d4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626508216423,
+          "stop" : 1626508220235,
+          "duration" : 3812
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'鲸采电酷简介'" ]
+      }, {
+        "name" : "test_about_us[如何开店]",
+        "uid" : "36d72890b9598681",
+        "parentUid" : "f8c0590a74000f318aef8183a125c7d4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626508220237,
+          "stop" : 1626508221370,
+          "duration" : 1133
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'如何开店'" ]
+      }, {
+        "name" : "test_about_us[常见问题]",
+        "uid" : "4d204455ecec23a7",
+        "parentUid" : "f8c0590a74000f318aef8183a125c7d4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626508221373,
+          "stop" : 1626508222631,
+          "duration" : 1258
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'常见问题'" ]
+      }, {
+        "name" : "test_business_service[提供优质产品-https://jc.yungongchang.com/store/step1.html]",
+        "uid" : "48e5b81e54512b5d",
+        "parentUid" : "f8c0590a74000f318aef8183a125c7d4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626508222634,
+          "stop" : 1626508223168,
+          "duration" : 534
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'https://jc.yungongchang.com/store/step1.html'", "'提供优质产品'" ]
+      }, {
+        "name" : "test_business_service[加入渠道分销-https://jc.yungongchang.com/register.html]",
+        "uid" : "29ff77108176ce88",
+        "parentUid" : "f8c0590a74000f318aef8183a125c7d4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626508223171,
+          "stop" : 1626508223555,
+          "duration" : 384
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'https://jc.yungongchang.com/register.html'", "'加入渠道分销'" ]
+      }, {
+        "name" : "test_business_service[售后保障-http://jctest.yungongchang.com/news/6.html]",
+        "uid" : "2be8ed93520eced0",
+        "parentUid" : "f8c0590a74000f318aef8183a125c7d4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626508223560,
+          "stop" : 1626508224712,
+          "duration" : 1152
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'http://jctest.yungongchang.com/news/6.html'", "'售后保障'" ]
+      }, {
+        "name" : "test_business_service[支付方式-http://jctest.yungongchang.com/news/8.html]",
+        "uid" : "193f0c00247f8c97",
+        "parentUid" : "f8c0590a74000f318aef8183a125c7d4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626508224715,
+          "stop" : 1626508225376,
+          "duration" : 661
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'http://jctest.yungongchang.com/news/8.html'", "'支付方式'" ]
+      } ],
+      "uid" : "f8c0590a74000f318aef8183a125c7d4"
+    } ],
+    "uid" : "4218988d87ca5c6aa2e3b175031b0910"
+  } ]
+}

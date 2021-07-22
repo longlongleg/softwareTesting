@@ -1,0 +1,37 @@
+{
+  "total" : 3,
+  "items" : [ {
+    "uid" : "f69e3a4a3a63c6f02da50bfc83f5fffd",
+    "name" : "点击底部优质品牌商图片",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "5e86dcac824f12b698e38f97fcf70105",
+    "name" : "点击底部关于我们",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "3f35fd5eedb5c852bd5d605a97e1c6dc",
+    "name" : "点击底部商务与服务",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

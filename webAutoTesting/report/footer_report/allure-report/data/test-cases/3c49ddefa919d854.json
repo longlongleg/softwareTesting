@@ -1,0 +1,126 @@
+{
+  "uid" : "3c49ddefa919d854",
+  "name" : "test_about_us[鲸采电酷简介]",
+  "fullName" : "testFooter.TestFooter#test_about_us",
+  "historyId" : "7c5a136e898ff47bbfcdf186ab8a4885",
+  "time" : {
+    "start" : 1626508216423,
+    "stop" : 1626508220235,
+    "duration" : 3812
+  },
+  "description" : "测试点击底部的关于我们的各个链接点",
+  "descriptionHtml" : "<p>测试点击底部的关于我们的各个链接点</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestFooter",
+    "time" : {
+      "start" : 1626508169940,
+      "stop" : 1626508212935,
+      "duration" : 42995
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "测试点击底部的关于我们的各个链接点",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "下滑到底部，点击关于我们下面的链接",
+      "time" : {
+        "start" : 1626508216423,
+        "stop" : 1626508220235,
+        "duration" : 3812
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "about_title",
+        "value" : "'鲸采电酷简介'"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestFooter::0",
+    "time" : {
+      "start" : 1626508225378,
+      "stop" : 1626508225378,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "关于我们每个点测试"
+  }, {
+    "name" : "feature",
+    "value" : "点击底部关于我们"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "suite",
+    "value" : "testFooter"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestFooter"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-001871M"
+  }, {
+    "name" : "thread",
+    "value" : "312-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testFooter"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "about_title",
+    "value" : "'鲸采电酷简介'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=2)" ]
+  },
+  "source" : "3c49ddefa919d854.json",
+  "parameterValues" : [ "'鲸采电酷简介'" ]
+}

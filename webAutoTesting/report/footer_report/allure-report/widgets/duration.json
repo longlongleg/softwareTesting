@@ -1,0 +1,101 @@
+[ {
+  "uid" : "2be8ed93520eced0",
+  "name" : "test_business_service[售后保障-http://jctest.yungongchang.com/news/6.html]",
+  "time" : {
+    "start" : 1626508223560,
+    "stop" : 1626508224712,
+    "duration" : 1152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "48e5b81e54512b5d",
+  "name" : "test_business_service[提供优质产品-https://jc.yungongchang.com/store/step1.html]",
+  "time" : {
+    "start" : 1626508222634,
+    "stop" : 1626508223168,
+    "duration" : 534
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "47fbf4e556b88ee7",
+  "name" : "test_brand[3]",
+  "time" : {
+    "start" : 1626508215069,
+    "stop" : 1626508215690,
+    "duration" : 621
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d204455ecec23a7",
+  "name" : "test_about_us[常见问题]",
+  "time" : {
+    "start" : 1626508221373,
+    "stop" : 1626508222631,
+    "duration" : 1258
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36d72890b9598681",
+  "name" : "test_about_us[如何开店]",
+  "time" : {
+    "start" : 1626508220237,
+    "stop" : 1626508221370,
+    "duration" : 1133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "193f0c00247f8c97",
+  "name" : "test_business_service[支付方式-http://jctest.yungongchang.com/news/8.html]",
+  "time" : {
+    "start" : 1626508224715,
+    "stop" : 1626508225376,
+    "duration" : 661
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c49ddefa919d854",
+  "name" : "test_about_us[鲸采电酷简介]",
+  "time" : {
+    "start" : 1626508216423,
+    "stop" : 1626508220235,
+    "duration" : 3812
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b5da9890b81d897",
+  "name" : "test_brand[2]",
+  "time" : {
+    "start" : 1626508212936,
+    "stop" : 1626508215066,
+    "duration" : 2130
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29ff77108176ce88",
+  "name" : "test_business_service[加入渠道分销-https://jc.yungongchang.com/register.html]",
+  "time" : {
+    "start" : 1626508223171,
+    "stop" : 1626508223555,
+    "duration" : 384
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e610541e0a2937f5",
+  "name" : "test_brand[4]",
+  "time" : {
+    "start" : 1626508215694,
+    "stop" : 1626508216420,
+    "duration" : 726
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

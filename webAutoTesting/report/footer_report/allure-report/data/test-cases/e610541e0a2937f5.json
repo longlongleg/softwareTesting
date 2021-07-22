@@ -1,0 +1,126 @@
+{
+  "uid" : "e610541e0a2937f5",
+  "name" : "test_brand[4]",
+  "fullName" : "testFooter.TestFooter#test_brand",
+  "historyId" : "20aebb0ee5a8fea4e78478f8ca27fa10",
+  "time" : {
+    "start" : 1626508215694,
+    "stop" : 1626508216420,
+    "duration" : 726
+  },
+  "description" : "测试点击底部的品牌商图片，跳转链接功能",
+  "descriptionHtml" : "<p>测试点击底部的品牌商图片，跳转链接功能</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestFooter",
+    "time" : {
+      "start" : 1626508169940,
+      "stop" : 1626508212935,
+      "duration" : 42995
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "测试点击底部的品牌商图片，跳转链接功能",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "下滑到底部，点击图片，直到品牌商网站",
+      "time" : {
+        "start" : 1626508215694,
+        "stop" : 1626508216420,
+        "duration" : 726
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "num",
+        "value" : "4"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestFooter::0",
+    "time" : {
+      "start" : 1626508225378,
+      "stop" : 1626508225378,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "优质品牌商链接"
+  }, {
+    "name" : "feature",
+    "value" : "点击底部优质品牌商图片"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "suite",
+    "value" : "testFooter"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestFooter"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-001871M"
+  }, {
+    "name" : "thread",
+    "value" : "312-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testFooter"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "num",
+    "value" : "4"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=1)" ]
+  },
+  "source" : "e610541e0a2937f5.json",
+  "parameterValues" : [ "4" ]
+}
